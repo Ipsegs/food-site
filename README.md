@@ -1,3 +1,5 @@
+# Practical Docker-compose Usage 
+
  This is just to demonstrate how docker compose can start more than one application in parrallel
  The demonstration consists of two containers serving two different html content.
  The containers include :
